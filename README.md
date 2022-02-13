@@ -1,5 +1,7 @@
 # Nonogram Solver
 
+##[What is nonogram](https://en.wikipedia.org/wiki/Nonogram)
+
 ## how to build
 ```
 mkdir build && cd build && cmake .. && make
