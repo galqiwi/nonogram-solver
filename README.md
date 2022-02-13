@@ -9,3 +9,5 @@ mkdir build && cd build && cmake .. && make
 ```
 ./nonogram_solver < input_examples/test_input
 ```
+
+![solution](./solved.png)
