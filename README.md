@@ -1,6 +1,6 @@
 # Nonogram Solver
 
-##[What is nonogram](https://en.wikipedia.org/wiki/Nonogram)
+[What is nonogram](https://en.wikipedia.org/wiki/Nonogram)
 
 ## how to build
 ```
